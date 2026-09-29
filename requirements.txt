@@ -1,0 +1,10 @@
+huggingface-hub
+requests
+streamlit
+torch
+torchvision
+pillow
+numpy
+matplotlib
+grad-cam
+opencv-python-headless
